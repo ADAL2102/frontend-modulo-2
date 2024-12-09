@@ -15,3 +15,49 @@ header{
 footer{
     background-color: #d4d4d4;
 }
+
+.menu{
+    list-style: none;
+}
+
+.enlace{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.enlace:hover{
+    color:black ;
+    text-decoration: underline;
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: #412e5a;
+}
+
+.boton-contacto{
+    background-color: #FFF ;
+    color: black;
+    width: 100px;
+    height: 50px;
+
+}
+
+.boton-contacto:hover{
+    background-color: #5f00dd;
+    color: white;
+    width: 120px;
+    height: 60px;
+}
+
+.boton-contacto:active{
+    background-color: black;
+    color: #FFF;
+    width: 116px;
+    height: 58px;
+}
+
+#titulo-principal{
+    text-decoration: underline;
+}
